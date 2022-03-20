@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.75a68ace.css",
-    "main.js": "/static/js/main.66788872.js",
-    "static/media/calculadora.png": "/static/media/calculadora.1523ad84b255eb5486b3.png",
-    "static/media/diccionario.png": "/static/media/diccionario.833f5cd2aba47e8245ac.png",
-    "static/media/crud.png": "/static/media/crud.5950cb19c6336cb7a585.png",
-    "static/media/gymapp.png": "/static/media/gymapp.0b3d1b364bbc16632b60.png",
-    "static/media/placeholder.jpg": "/static/media/placeholder.2fe083f5d981b2816d98.jpg",
-    "static/media/slots.png": "/static/media/slots.f5e6916994b995b9819b.png",
-    "static/media/formato.pdf": "/static/media/formato.1f482f8aa1f013130a74.pdf",
-    "static/media/codepic.png": "/static/media/codepic.0904656d255ddaa90f9b.png",
-    "static/media/first.png": "/static/media/first.3dcc1785b0112076842f.png",
-    "index.html": "/index.html",
-    "main.75a68ace.css.map": "/static/css/main.75a68ace.css.map",
-    "main.66788872.js.map": "/static/js/main.66788872.js.map"
+    "main.css": "/portafolio2022/static/css/main.75a68ace.css",
+    "main.js": "/portafolio2022/static/js/main.d170174d.js",
+    "static/media/calculadora.png": "/portafolio2022/static/media/calculadora.1523ad84b255eb5486b3.png",
+    "static/media/diccionario.png": "/portafolio2022/static/media/diccionario.833f5cd2aba47e8245ac.png",
+    "static/media/crud.png": "/portafolio2022/static/media/crud.5950cb19c6336cb7a585.png",
+    "static/media/gymapp.png": "/portafolio2022/static/media/gymapp.0b3d1b364bbc16632b60.png",
+    "static/media/placeholder.jpg": "/portafolio2022/static/media/placeholder.2fe083f5d981b2816d98.jpg",
+    "static/media/slots.png": "/portafolio2022/static/media/slots.f5e6916994b995b9819b.png",
+    "static/media/formato.pdf": "/portafolio2022/static/media/formato.1f482f8aa1f013130a74.pdf",
+    "static/media/codepic.png": "/portafolio2022/static/media/codepic.0904656d255ddaa90f9b.png",
+    "static/media/first.png": "/portafolio2022/static/media/first.3dcc1785b0112076842f.png",
+    "index.html": "/portafolio2022/index.html",
+    "main.75a68ace.css.map": "/portafolio2022/static/css/main.75a68ace.css.map",
+    "main.d170174d.js.map": "/portafolio2022/static/js/main.d170174d.js.map"
   },
   "entrypoints": [
     "static/css/main.75a68ace.css",
-    "static/js/main.66788872.js"
+    "static/js/main.d170174d.js"
   ]
 }
