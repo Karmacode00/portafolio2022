@@ -1,3 +1,7 @@
+# Deployment
+
+This project deploy was created using Github pages [Portafolio 2022](https://karmacode00.github.io/portafolio2022/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
